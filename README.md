@@ -20,7 +20,7 @@ Shape_Length\
 Shape_Area\
 
 **NT_sklypai_nuosavybe.csv:**\
-OBJID (unikalus objekto id)\
+OBJID (unikalus objekto id, ryšiuo su pagrindine slypų lentele)\
 TEI_ID\
 SAVININKAS\
 NAUDTEISE\
